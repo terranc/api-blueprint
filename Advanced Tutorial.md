@@ -120,8 +120,6 @@ be generated.
 在这个例子中，`minItems`将不被设置。
 如果您有这样的限制，你可以重写模式生成，在这种情况下，将只产生JSON内容体。
 
-*Note*: MSON is still considered a beta feature!
-*注意*：MSON 仍然被认为是测试版功能！
 
 ## Data Structures
 ## 数据结构

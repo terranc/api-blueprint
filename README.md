@@ -42,7 +42,7 @@ Any [contribution][contribute] is highly appreciated.
 
 API Blueprint是完全开放并采用 MIT 许可。任何[贡献][contribute] 表示高度欢迎的。
 
-[contribute]: #Contribute
+[contribute]: #contribute
 
 ## At home on GitHub
 ## GitHub上面
